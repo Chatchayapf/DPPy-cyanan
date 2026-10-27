@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 #Cell 2-0 - Python
 num = int(input())
 
